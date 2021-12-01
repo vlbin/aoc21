@@ -1,3 +1,3 @@
-# advent of code 2021
+# 🎄 λdvent of code 2021 🎄
 
 trying this out in haskell
