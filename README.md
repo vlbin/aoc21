@@ -1,3 +1,3 @@
 # 🎄 λdvent of code 2021 🎄
 
-trying this out in haskell
+haskell solutions for advent of code 2021
